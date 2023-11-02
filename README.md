@@ -2,7 +2,7 @@
 Genome Browser WebApp
 
 Backend -
- python3 app.py
+ ### `python3 app.py`
 
 Frontend -
 ### `npm start`
